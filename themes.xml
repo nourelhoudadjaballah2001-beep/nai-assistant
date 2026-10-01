@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Nay" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/icon_bg</item>
+    </style>
+</resources>
